@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.child{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: black 10px solid;
+    margin: 2.5rem;
+}
+.yellow{
+    background-color:#f99b45 ;
+}
+.green{
+    background-color: #63aac0;
+}
+.red{
+    background-color: #d95980;}
+.purple{
+    background-color:#819ff9;
+}
+.fls{
+    background-color: aliceblue;
+}
+.ufls{
+    background-color: bisque;
+}
+
+
